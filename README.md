@@ -28,4 +28,12 @@ This mini project calculates the **tip amount** and **total bill**, making it us
 4. View the **tip amount** and **total bill** instantly  
 
 ---
+## 💡 Learning Outcomes
+This simple project helps beginners understand:
+- DOM Manipulation  
+- Input handling  
+- Basic math operations  
+- User Interface design  
+- Event handling in JavaScript  
 
+---
