@@ -14,11 +14,6 @@ This mini project calculates the **tip amount** and **total bill**, making it us
 
 ---
 
-## 📸 Preview
-(You can add a screenshot here after uploading the project)
-
----
-
 ## 🛠 Technologies Used
 - **HTML5**  
 - **CSS3**  
