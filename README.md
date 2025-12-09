@@ -29,4 +29,3 @@ This mini project calculates the **tip amount** and **total bill**, making it us
 
 ---
 
-## 📁 Project Structure
