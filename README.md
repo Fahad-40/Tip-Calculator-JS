@@ -36,4 +36,4 @@ This simple project helps beginners understand:
 - User Interface design  
 - Event handling in JavaScript  
 
----
+
