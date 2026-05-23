@@ -10,7 +10,7 @@ This mini project calculates the **tip amount** and **total bill**, making it us
 - Real-time tip calculation  
 - Clean and modern UI  
 - Responsive layout  
- Beginner-friendly JavaScript logic  
+- Beginner-friendly JavaScript logic  
 
 ---
 
